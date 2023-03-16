@@ -1,0 +1,6 @@
+>>> Warning 203 "kesme.c" Line 18(1,1): Condition always TRUE
+>>> Warning 203 "kesme.c" Line 25(1,1): Condition always TRUE
+>>> Warning 216 "kesme.c" Line 29(0,1): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+      Memory usage:   ROM=5%      RAM=4% - 8%
+      0 Errors,  3 Warnings.
+Build Successful.
